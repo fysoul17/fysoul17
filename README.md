@@ -15,8 +15,8 @@
 <br />
 
 ---
-![Terry's github stats](https://github-readme-stats.vercel.app/api?username=fysoul17&count_private=true&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fysoul17&theme=dark)
+![Terry's github stats](https://github-readme-stats.vercel.app/api?username=fysoul17&count_private=true&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fysoul17)
 
 [youtube]: https://www.youtube.com/user/fysoul17
 [instagram]: https://www.instagram.com/terry__k/
