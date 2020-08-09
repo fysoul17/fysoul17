@@ -13,6 +13,7 @@
 [<img align="left" alt="Terry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ![Terry's github stats](https://github-readme-stats.vercel.app/api?username=fysoul17&count_private=true&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fysoul17)
