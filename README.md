@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Programmer, CEO, CTO, Game dev streamer, Gamer, Digital Nomad and Geeeek!
 
-- 🔭 I’m currently working on a Unity3d and Flutter projects.
+- 🔭 I’m currently working on a Unity3d, Flutter, Nextjs and Blockchain projects.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
