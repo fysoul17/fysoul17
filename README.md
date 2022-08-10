@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Unity3d/Unreal, Flutter, React/Next.js, Web3.0 and Blockchain projects(incl. Smart Contracts), Discord Bots.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Create more blockchain projects.
+- 🥅 2022 Goals: Create blockchain projects that have active ecosystem and community.
 
 ### Connect with me:
 
