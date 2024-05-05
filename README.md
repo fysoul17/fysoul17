@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Unity3d/Unreal, Flutter, React/Next.js, Web3.0 and Blockchain projects(incl. Smart Contracts), Discord Bots.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Create Web3/DeFi projects that have an active ecosystem and community.
+- 🥅 2024 Goals: Create Web3/DeFi/AI projects that have an active ecosystem and community.
 
 ### Connect with me:
 
