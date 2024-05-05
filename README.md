@@ -1,6 +1,6 @@
 ### Hi there, I'm Terry 👋
 
-## I'm a Husband, Father, Programmer, Entrepreneur, CTO, Game dev streamer, Gamer, Digital Nomad and Geeeek!
+## I'm a Husband, Father, Programmer, Entrepreneur, CTO, Trader, Gamer, Digital Nomad and Geeeek!
 
 - 🔭 I’m currently working on Unity3d/Unreal, Flutter, React/Next.js, Web3.0 and Blockchain projects(incl. Smart Contracts), Discord Bots, AI (LLMs, LangChain).
 - 🌱 I’m currently learning everything 🤣
