@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Father, Programmer, Entrepreneur, CTO, Product Manager, Product Owner, Trader, Gamer, Digital Nomad and Geeeek!
 
-- 🔭 I’m currently working on Unity3d/Unreal, Flutter, React/Next.js, Web3.0 and Blockchain projects(incl. Smart Contracts), Discord Bots, AI (LLMs, LangChain).
+- 🔭 I’m currently working on AI Agents, Next.js, Web3.0 and Blockchain (incl. Smart Contracts), Unity3d/Unreal, Flutter, Discord Bots projects.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Create Web3/DeFi/AI projects that have an active ecosystem and community.
+- 🥅 2025 Goals: Create Muti AI Agent systems for vertical AI industries, including Web3/DeFi/AI projects that have an active ecosystem and community.
 
 ### Connect with me:
 
