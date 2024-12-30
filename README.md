@@ -17,6 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fysoul17)
 
-[youtube]: https://www.youtube.com/user/fysoul17
+[youtube]: https://www.youtube.com/@nocodecat
 [instagram]: https://www.instagram.com/terry__k/
 [linkedin]: https://www.linkedin.com/in/terrybear/
