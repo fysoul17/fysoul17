@@ -14,6 +14,7 @@
 
   <g transform="translate(60, 160)">
     <text y="0" class="title">Terry K.</text>
+    <!-- 아래 라인의 &를 &로 수정했습니다 -->
     <text y="60" class="subtitle">CTO | AI & Web3 Architect | Product Leader</text>
   </g>
 
