@@ -1,11 +1,3 @@
-<!-- 
-  [필수] 헤더 배너: Canva(https://www.canva.com/) 같은 툴로 1280x400px 사이즈의 배너를 만드세요.
-  "Terry K.", "CTO | AI & Web3 Architect | Full-Stack Leader" 와 같은 문구를 넣어보세요.
-  이 배너 하나가 프로필의 전체적인 퀄리티를 결정합니다.
--->
-<p align="center">
-  <img src="banner.svg" alt="Terry K. Banner">
-</p>
 
 <h1 align="center">Hi, I'm Terry 👋</h1>
 <h3 align="center">A product-focused CTO building intelligent, decentralized systems.</h3>
