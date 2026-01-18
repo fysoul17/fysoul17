@@ -94,9 +94,9 @@
   <!-- Decorative code blocks - left side -->
   <g transform="translate(40, 60)" opacity="0.15">
     <text class="code" y="0">const terry = {</text>
-    <text class="code" y="20">  role: "CTO",</text>
+    <text class="code" y="20">  experience: "17+ years",</text>
     <text class="code" y="40">  passion: ["AI", "Web3"],</text>
-    <text class="code" y="60">  building: true</text>
+    <text class="code" y="60">  teamsLed: "10 to 150+"</text>
     <text class="code" y="80">};</text>
   </g>
 
@@ -116,16 +116,18 @@
     <text y="50" class="name" filter="url(#textGlow)">Terry Kwon</text>
 
     <!-- Title -->
-    <text y="95" class="title">Product-Focused CTO</text>
+    <text y="95" class="title">Entrepreneur | CTO | Educator</text>
 
     <!-- Tagline -->
-    <text y="140" class="tagline">Building intelligent systems at the intersection of</text>
+    <text y="140" class="tagline">Balancing technology and business to create customer value</text>
     <text y="168" class="tagline">
       <tspan fill="#58A6FF" font-weight="600">AI</tspan>
-      <tspan fill="#8B949E"> + </tspan>
+      <tspan fill="#8B949E"> | </tspan>
       <tspan fill="#A371F7" font-weight="600">Web3</tspan>
-      <tspan fill="#8B949E"> + </tspan>
-      <tspan fill="#F778BA" font-weight="600">Product Innovation</tspan>
+      <tspan fill="#8B949E"> | </tspan>
+      <tspan fill="#F778BA" font-weight="600">Full-Stack</tspan>
+      <tspan fill="#8B949E"> | </tspan>
+      <tspan fill="#7EE787" font-weight="600">Product</tspan>
     </text>
   </g>
 
