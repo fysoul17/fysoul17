@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="./banner.svg" width="100%" alt="Terry K. - Product-Focused CTO"/>
+<img src="./banner.svg" width="100%" alt="Terry Kwon - Product-Focused CTO"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -10,9 +10,8 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/fysoul17"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/fysoul17"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:terry@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/terrybear/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/fysoul17"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=fysoul17&style=for-the-badge&color=A371F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
@@ -226,11 +225,8 @@ const terry = {
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fysoul17">
+  <a href="https://www.linkedin.com/in/terrybear/">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://calendly.com/fysoul17">
-    <img src="https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendly"/>
   </a>
 </p>
 

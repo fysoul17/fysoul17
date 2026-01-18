@@ -113,7 +113,7 @@
     <rect x="0" y="-20" width="80" height="4" rx="2" fill="url(#lineGrad)"/>
 
     <!-- Name -->
-    <text y="50" class="name" filter="url(#textGlow)">Terry K.</text>
+    <text y="50" class="name" filter="url(#textGlow)">Terry Kwon</text>
 
     <!-- Title -->
     <text y="95" class="title">Product-Focused CTO</text>
