@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="banner.svg" alt="Terry K. — CTO | AI & Web3 Architect | Product Leader" width="100%" />
-</p>
-
+<h1 align="center">Hi, I'm Terry 👋</h1>
 <h3 align="center">A product-focused CTO building intelligent, decentralized systems.</h3>
 
 <p align="center">
