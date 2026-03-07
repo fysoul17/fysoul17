@@ -1,19 +1,86 @@
 
-<h1 align="center">Hi, I'm Terry 👋</h1>
+<p align="center">
+  <img src="banner.svg" alt="Terry K. — CTO | AI & Web3 Architect | Product Leader" width="100%" />
+</p>
+
 <h3 align="center">A product-focused CTO building intelligent, decentralized systems.</h3>
 
 <p align="center">
-  <em>I specialize in transforming complex business challenges into market-ready products, leveraging a deep expertise across
-  <br><strong>AI, Web3, Full-Stack Development, and Product Strategy.</strong></em>
+  <em>I specialize in transforming complex business challenges into market-ready products, leveraging deep expertise across
+  <br><strong>AI Agents, Web3, Gaming, Full-Stack Development, and Product Strategy.</strong></em>
 </p>
 
 ---
 
-### ⚔️ My Tech Arsenal
+### 🤖 AI Agent Companions
 
-<p align="center">
-  <em>A comprehensive list of technologies and tools I've mastered.</em>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Sol-agent">
+        <img src="https://github.com/Sol-agent.png" width="80" height="80" style="border-radius:50%;" alt="Sol" />
+        <br />
+        <strong>Sol</strong>
+      </a>
+      <br />
+      <sub>Digital familiar ☀️ — AI-native crypto signals & market intelligence</sub>
+      <br />
+      <a href="https://moonmaker.cc">moonmaker.cc</a> · <a href="https://openclaw.com">Openclaw</a>
+    </td>
+    <td align="center" width="50%">
+      <img width="80" height="80" alt="Coming soon" src="https://img.shields.io/badge/%3F-soon-333?style=flat-square" />
+      <br />
+      <strong>??? </strong>
+      <br />
+      <sub>Coming soon — <a href="https://pyxmate.com">Pyxmate</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Products
+
+#### with Sol · [moonmaker.cc](https://moonmaker.cc)
+
+| | Product | Description |
+|---|---|---|
+| ✅ | [**MoonMaker API**](https://moonmaker.cc) | x402 crypto signal & intelligence API — 11 paid endpoints, USDC on Base |
+| ✅ | [**MoonMaker Arena**](https://moonmaker.cc/arena) | Real-time AI agent trading debate + on-chain betting arena |
+| ✅ | **Signal System G** | Contrarian crypto signals — 29 indicators, ATR-adaptive TP/SL, Bybit auto-trading |
+| ✅ | **Sentinel** | AI news digest — 14 RSS sources, 3x/day auto-delivery to Discord & Telegram |
+| ✅ | **Trump Monitor** | Real-time Trump post detection → market impact scoring → alerts |
+| ✅ | [**PayGate**](https://github.com/Sol-agent/paygate) | ETH→USDC on-ramp contract for AI agents — one-click swap on Base |
+| 🔨 | **Mirror of Destiny** | AI tarot & fortune-telling Telegram mini-app — Gemini real-time reading |
+| 🔨 | **MEB** | Minecraft English Buddy — learn English by playing with AI in Minecraft |
+
+#### Pyxmate · [pyxmate.com](https://pyxmate.com)
+
+| | Product | Description |
+|---|---|---|
+| ✅ | [**PYX Scanner**](https://scanner.pyxmate.com) | AI agent skill security scanner — 1,395+ skills analyzed, 7 threat categories |
+| ✅ | [**PYX Memory**](https://memory.pyxmate.com) | Memory as a Service for AI agents — smart retrieval beyond vector search |
+| 🔧 | **Agent Forge** | Autonomous AI Agent Runtime — turn any CLI AI tool into an agent system |
+
+---
+
+### 📦 Open Source
+
+| Repository | Description | |
+|---|---|---|
+| [**google_maps_place_picker**](https://github.com/fysoul17/google_maps_place_picker) | Place picker on Google Maps for Flutter | ⭐ 229 |
+| [**flutter_speed_dial_material_design**](https://github.com/fysoul17/flutter_speed_dial_material_design) | Material Design Speed Dial for Flutter | ⭐ 31 |
+| [**firebase_auth_simplify**](https://github.com/fysoul17/firebase_auth_simplify) | Firebase Auth wrapper — sign-in/out in one line | ⭐ 17 |
+| [**pyx-scanner-v1**](https://github.com/fysoul17/pyx-scanner-v1) | AI agent skill security scanner | |
+| [**pyx-scan**](https://github.com/fysoul17/pyx-scan) | Claude Code skill for PYX Scanner | |
+| [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Claude Code configuration toolkit for teams | |
+| [**flutter_firebase_chat_messenger**](https://github.com/fysoul17/flutter_firebase_chat_messenger) | Chat messenger for Flutter (Telegram/KakaoTalk style) | |
+| [**discord-bot-boilerplate**](https://github.com/fysoul17/discord-bot-boilerplate) | Discord bot boilerplate with Node.js | |
+| [**QuasarUnityTools**](https://github.com/fysoul17/QuasarUnityTools) | Useful tools for Unity | |
+
+---
+
+### ⚔️ Tech Arsenal
 
 <table width="100%">
   <tr>
@@ -23,9 +90,8 @@
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
-        <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
         <br>
-        <code>Product Management</code> <code>Product Owner</code> <code>GA4</code> <code>BigQuery</code> <code>Tableau</code> <code>Hotjar</code> <code>Click-up</code> <code>Sketch</code> <code>Axure</code>
+        <code>Product Management</code> <code>Product Owner</code> <code>GA4</code> <code>BigQuery</code> <code>Tableau</code> <code>Hotjar</code> <code>Click-up</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -36,7 +102,7 @@
         <img src="https://img.shields.io/badge/Foundry-333333?style=for-the-badge" alt="Foundry">
         <img src="https://img.shields.io/badge/Thirdweb-0f0f0f?style=for-the-badge&logo=thirdweb&logoColor=white" alt="Thirdweb">
         <br>
-        <code>Truffle</code> <code>Infura</code> <code>Alchemy</code> <code>Moralis</code> <code>DeFi</code> <code>Tokenomics</code> <code>EIP-4337(AA)</code> <code>EIP-2535(Diamonds)</code>
+        <code>Infura</code> <code>Alchemy</code> <code>Moralis</code> <code>DeFi</code> <code>Tokenomics</code> <code>x402</code> <code>EIP-4337(AA)</code> <code>EIP-2535(Diamonds)</code>
       </p>
     </td>
   </tr>
@@ -49,7 +115,10 @@
         <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
         <br>
-        <code>Multi-Agent Systems</code> <code>RAG</code> <code>PEFT</code> <code>MidJourney</code> <code>Stable Diffusion (ComfyUI)</code> <code>n8n</code> <code>Flowise</code> <code>Cursor</code>
+        <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+        <br>
+        <code>Multi-Agent Systems</code> <code>RAG</code> <code>Claude Code</code> <code>MidJourney</code> <code>Stable Diffusion (ComfyUI)</code> <code>n8n</code> <code>Cursor</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -61,7 +130,7 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
         <br>
-        <code>Photon Engine</code> <code>Game Sparks</code> <code>Blueprint</code>
+        <code>Photon Engine</code> <code>Blueprint</code>
       </p>
     </td>
   </tr>
@@ -103,6 +172,10 @@
         <br>
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
         <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge" alt="Drizzle">
+        <br>
+        <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+        <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
       </p>
     </td>
   </tr>
@@ -110,12 +183,16 @@
 
 ---
 
-### 📈 My GitHub Activity
+### 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fysoul17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fysoul17&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=fysoul17&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fysoul17&theme=tokyonight&row=1&column=7" alt="Trophy" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fysoul17/fysoul17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fysoul17/fysoul17/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/fysoul17/fysoul17/output/github-snake.svg" />
+  </picture>
 </p>
