@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Products
+### 🚀 Products I Ship
 
 #### with Sol · [moonmaker.cc](https://moonmaker.cc)
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 📦 Open Source
+### 📦 Open Source I Maintain
 
 | Repository | Description | |
 |---|---|---|
