@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Products I Ship
+### 🚀 Products I Ship in 2026
 
 #### with Sol · [moonmaker.cc](https://moonmaker.cc)
 
