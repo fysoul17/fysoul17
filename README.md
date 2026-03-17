@@ -59,11 +59,9 @@
 | ✅ | [**PYX Memory**](https://memory.pyxmate.com) | Memory as a Service for AI agents — smart retrieval beyond vector search |
 | 🔧 | **Agent Forge** | Autonomous AI Agent Runtime — turn any CLI AI tool into an agent system |
 
----
+#### Misc
 
-### 🧪 Side Projects
-
-| | Project | Description |
+| | Product | Description |
 |---|---|---|
 | 🔨 | [**Agent Forge**](https://github.com/fysoul17/agent-forge) | Autonomous AI Agent Runtime template — turn any CLI AI tool into an agent system with persistent memory, pluggable backends & cyberpunk dashboard |
 | ✅ | [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Skills & commands toolkit for Claude Code — 14 slash commands, 5 core skills, agent team workflows for consistent dev experience |
