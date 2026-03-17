@@ -59,7 +59,7 @@
 | ✅ | [**PYX Memory**](https://memory.pyxmate.com) | Memory as a Service for AI agents — smart retrieval beyond vector search |
 | 🔧 | **Agent Forge** | Autonomous AI Agent Runtime — turn any CLI AI tool into an agent system |
 
-#### Misc
+#### Side Products
 
 | | Product | Description |
 |---|---|---|
