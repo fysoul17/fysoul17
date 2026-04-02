@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>AI Agents</code> · <code>Harness Engineering</code> · <code>Context Engineering</code> · <code>Web3</code> · <code>Full-Stack</code> · <code>Product Strategy</code>
+  <code>AI Agents</code> · <code>Harness Engineering</code> · <code>Context Engineering</code> · <code>Web3</code> · <code>Architect</code> · <code>Product Strategy</code>
 </p>
 
 ---
