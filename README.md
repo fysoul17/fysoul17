@@ -1,10 +1,15 @@
 
 <h1 align="center">Hi, I'm Terry 👋</h1>
-<h3 align="center">A product-focused CTO building intelligent, decentralized systems.</h3>
+<h3 align="center">AI-Native CTO — I build products with AI agents, not just about them.</h3>
 
 <p align="center">
-  <em>I specialize in transforming complex business challenges into market-ready products, leveraging deep expertise across
-  <br><strong>AI Agents, Web3, Gaming, Full-Stack Development, and Product Strategy.</strong></em>
+  <em>I ship full products end-to-end using AI agent harnesses I engineer myself.<br>
+  From <strong>prompt engineering</strong> to <strong>context engineering</strong> to <strong>harness engineering</strong> —<br>
+  I design the systems that let AI agents build, evaluate, and ship production software autonomously.</em>
+</p>
+
+<p align="center">
+  <code>AI Agents</code> · <code>Harness Engineering</code> · <code>Context Engineering</code> · <code>Web3</code> · <code>Full-Stack</code> · <code>Product Strategy</code>
 </p>
 
 ---
@@ -13,7 +18,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/Sol-agent">
         <img src="https://github.com/Sol-agent.png" width="80" height="80" style="border-radius:50%;" alt="Sol" />
         <br />
@@ -24,7 +29,18 @@
       <br />
       <a href="https://moonmaker.cc">moonmaker.cc</a> · <a href="https://openclaw.com">Openclaw</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://openclaw.com">
+        <img src="https://img.shields.io/badge/⚡-Volt-FFD700?style=flat-square" width="80" height="80" alt="Volt" />
+        <br />
+        <strong>Volt</strong>
+      </a>
+      <br />
+      <sub>Quant trader ⚡ — auto-research & self-evolving strategy, trades daily</sub>
+      <br />
+      <a href="https://openclaw.com">Openclaw</a>
+    </td>
+    <td align="center" width="33%">
       <img width="80" height="80" alt="Coming soon" src="https://img.shields.io/badge/%3F-soon-333?style=flat-square" />
       <br />
       <strong>??? </strong>
@@ -57,14 +73,14 @@
 |---|---|---|
 | ✅ | [**PYX Scanner**](https://scanner.pyxmate.com) | AI agent skill security scanner — 1,395+ skills analyzed, 7 threat categories |
 | ✅ | [**PYX Memory**](https://memory.pyxmate.com) | Memory as a Service for AI agents — smart retrieval beyond vector search |
-| 🔧 | **Agent Forge** | Autonomous AI Agent Runtime — turn any CLI AI tool into an agent system |
+| 🔧 | **Agent Forge** | Autonomous AI Agent Runtime — multi-agent orchestration with persistent memory, credential protection & cyberpunk dashboard |
 
 #### AI Agent Dev Tools
 
 | | Product | Description |
 |---|---|---|
-| 🔨 | [**Agent Forge**](https://github.com/fysoul17/agent-forge) | Autonomous AI Agent Runtime template — turn any CLI AI tool into an agent system with persistent memory, pluggable backends & cyberpunk dashboard |
-| ✅ | [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Skills & commands toolkit for Claude Code — 14 slash commands, 5 core skills, agent team workflows for consistent dev experience |
+| 🔨 | [**Agent Forge**](https://github.com/fysoul17/agent-forge) | Autonomous AI Agent Runtime — multi-agent orchestration with persistent memory, credential protection, pluggable backends & cyberpunk dashboard |
+| ✅ | [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Harness engineering toolkit for Claude Code — 21+ skills including `auto-resolve` pipeline, agent team workflows, multi-phase build-evaluate-ship automation |
 
 ---
 
@@ -77,7 +93,7 @@
 | [**firebase_auth_simplify**](https://github.com/fysoul17/firebase_auth_simplify) | Firebase Auth wrapper — sign-in/out in one line | ⭐ 17 |
 | [**pyx-scanner-v1**](https://github.com/fysoul17/pyx-scanner-v1) | AI agent skill security scanner | |
 | [**pyx-scan**](https://github.com/fysoul17/pyx-scan) | Claude Code skill for PYX Scanner | |
-| [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Claude Code configuration toolkit for teams | |
+| [**devlyn-cli**](https://github.com/fysoul17/devlyn-cli) | Harness engineering toolkit for Claude Code — 21+ skills | |
 | [**flutter_firebase_chat_messenger**](https://github.com/fysoul17/flutter_firebase_chat_messenger) | Chat messenger for Flutter (Telegram/KakaoTalk style) | |
 | [**discord-bot-boilerplate**](https://github.com/fysoul17/discord-bot-boilerplate) | Discord bot boilerplate with Node.js | |
 | [**QuasarUnityTools**](https://github.com/fysoul17/QuasarUnityTools) | Useful tools for Unity | |
@@ -122,7 +138,7 @@
         <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
         <br>
-        <code>Multi-Agent Systems</code> <code>RAG</code> <code>Claude Code</code> <code>MidJourney</code> <code>Stable Diffusion (ComfyUI)</code> <code>n8n</code> <code>Cursor</code>
+        <code>Multi-Agent Systems</code> <code>RAG</code> <code>Context Engineering</code> <code>Harness Engineering</code> <code>Claude Code</code> <code>MidJourney</code> <code>Stable Diffusion (ComfyUI)</code> <code>n8n</code> <code>Cursor</code>
       </p>
     </td>
     <td width="50%" valign="top">
